@@ -1,0 +1,9 @@
+c:\users\dxf\documents\visual studio 2012\Projects\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.exe.config
+c:\users\dxf\documents\visual studio 2012\Projects\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.exe
+c:\users\dxf\documents\visual studio 2012\Projects\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.pdb
+c:\users\dxf\documents\visual studio 2012\Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.csprojResolveAssemblyReference.cache
+c:\users\dxf\documents\visual studio 2012\Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.Properties.Resources.resources
+c:\users\dxf\documents\visual studio 2012\Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.csproj.GenerateResource.Cache
+c:\users\dxf\documents\visual studio 2012\Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.exe
+c:\users\dxf\documents\visual studio 2012\Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.pdb
+C:\Users\DXF\documents\visual studio 2012\Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.From1.resources
